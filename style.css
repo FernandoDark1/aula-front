@@ -266,8 +266,8 @@ td, th {
 		width: 100%;
 	}
 
-	.produtos li {
+	ul.produtos {
 		display: grid;
-		margin: 15px 50px 15px;
+
 	}
 }
