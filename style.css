@@ -94,10 +94,6 @@ footer {
 	margin: 20px 0 0;
 }
 
-main {
-    
-}
-
 form {
     margin: 40px 0;
 }
@@ -137,7 +133,7 @@ form label, form legend {
 }
 
 table {
-    margin: 20px 0 40px;
+    margin: 20px 322px 40px;
 }
 
 thead {
@@ -266,8 +262,12 @@ td, th {
 		width: 100%;
 	}
 
-	ul.produtos {
+	.produtos {
 		display: grid;
+		padding: auto;
+	}
 
+	table, main {
+		margin: 20px 5px 20px 5px;
 	}
 }
