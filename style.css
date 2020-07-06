@@ -250,13 +250,16 @@ td, th {
 		width: auto;
 	}
 
+	ul {
+		width: auto;
+	}
+
 	h1 {
 		text-align: center;
 	}
 
 	nav {
 		position: static;
-		text-align: center;
 	}
 
 	.lista-beneficios, .imagem-beneficios {
